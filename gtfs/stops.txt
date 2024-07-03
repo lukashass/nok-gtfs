@@ -1,0 +1,3 @@
+stop_id,stop_name,stop_lat,stop_lon
+holtenau,Holtenauer Brücke,54.3686118,10.1341618
+wik,Wiker Brücke,54.3663440,10.1317911
